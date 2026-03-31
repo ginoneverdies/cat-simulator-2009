@@ -1,0 +1,4 @@
+<binary content would typically be in bytecode or base64 encoding, placeholder used for example>
+: {"type":"application/octet-stream"},
+"size":1234
+}
